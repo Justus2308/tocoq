@@ -12,8 +12,7 @@ A simple script to translate logical instructions from unicode to coq-legible sy
 	⊢ : ->  
 	⊨ : ->  
 
-&nbsp;
-
+## Usage:
 To use simply run `ruby tocoq.rb` and append the instruction you want to translate as an argument. The results will automatically be copied to your clipboard.
 
 **Example:**  
