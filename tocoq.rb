@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 $table = {
 	⊤: 'True',
 	⊥: 'False',
