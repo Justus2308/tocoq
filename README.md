@@ -7,7 +7,7 @@ A simple script to translate logical instructions from unicode to coq-legible sy
 	∧ : /\  
 	∨ : \/  
 	¬ : ~  
-	→ : ->  
+	→&#xFE0E; : ->  
 	↔&#xFE0E; : <->  
 	⊢ : ->  
 	⊨ : ->  
@@ -22,7 +22,7 @@ To use simply run `ruby tocoq.rb` and append the instruction you want to transla
   
 &nbsp;
 
-Alternatively running the script without any arguments will open a prompt to enter as many instrucitons as you like. Type `quit` or `exit` to end the program.
+Alternatively running the script without any arguments will open a prompt to enter as many instructions as you like. Type `quit` or `exit` to end the program.
 
 **Example:**  
 `ruby tocoq.rb `
