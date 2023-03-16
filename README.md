@@ -5,7 +5,7 @@ A simple script to translate logical instructions from unicode to coq-legible sy
 >	⊤ : True  
 	⊥ : False  
 	∧ : /\  
-	∨ : \/  
+	∨ : \\/  
 	¬ : ~  
 	→&#xFE0E; : ->  
 	↔&#xFE0E; : <->  
